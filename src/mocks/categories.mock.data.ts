@@ -12,7 +12,7 @@ export const categoriesMockData: Category[] = [
     {
         name: 'Rent',
         totalBudget: '550',
-        remainingBudget: '0'
+        remainingBudget: '0',
         type: ExpenseType.REQUIRED,
     },
     {
